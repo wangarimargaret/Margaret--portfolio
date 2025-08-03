@@ -1,7 +1,7 @@
 # Wangari's Portfolio
 
 This is a personal portfolio website for Margaret Wangari, showcasing her skills, projects, and contact information as a software developer and web designer.
-here is my link to my website : 
+here is my link to my website : https://wangarimargaret.github.io/Margaret--portfolio/
 
 ## Features
 
